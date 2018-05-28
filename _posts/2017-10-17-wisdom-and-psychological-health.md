@@ -1,0 +1,9 @@
+---
+layout:    post
+title:    Wisdom and psychological health
+created:  Tue Oct 17 2017 23:54:24 GMT+0200 (CEST)
+modified: Tue Oct 17 2017 23:55:02 GMT+0200 (CEST)
+---
+
+- One aspect of psychological health, is also a characteristic of a wise person: the avoidance of tunnel vision. That is, the avoidance of the association of concepts, or substantiation of the nature of concepts, to the point that it deteriorates the alignment of one's view of these concepts to other people's views. Or, in the first place not recognizing the existence of this distance. It seems one cannot overemphasize the vastness of the personal mind, as opposed to the thinness of social agreement, including language and culture. Certainly, it is a waste to live solely within the bounds of human conceptual agreement, if such a thing were even possible; also, paradoxically, the task of original thought and creation also seems so complicated as to have given rise to socially recognized vocations that do not fall to many; but given the extremes in these situations, taken together, it makes for a wise person to be able to judge these distances accordingly, and a healthy mind to be aware of the general realm of ideas at least as much as one is aware of one's one particular instantiation of these.
+- A characteristic of society is the placement of roles. Certainly the reification and specification of roles play a central role in society's unhealthiness. However, they are also a fundamental and crucial mechanism for societal and personal well-being. By analogy, the social roles set up are really no more than the rules of traffic, if society itself is infrastructure. Morality and personal psychological efficacy are two distinct dimensions in the judgement of these roles.

@@ -1,0 +1,18 @@
+---
+layout:    post
+title:    Paradoxes and reduction strategies
+created:  Thu Oct 26 2017 10:24:24 GMT+0200 (CEST)
+modified: Fri Oct 27 2017 00:09:28 GMT+0200 (CEST)
+---
+
+Assuming / considering:
+- (The features of) language form a great deal of thought, or at least conscious thought, and hence drive the conscious intellectual process; and furthermore is thus inherently conputational is nature. (Not that all thought is computational of course, the human mind is way too complex to reduce it that way in any meaningful sense, but there is strong evidence that all *conscious* applications of thought, though maybe not *directed* by computation, are indeed *instances* of computation.)
+- There are a few good mathematical characterizations of what computation is, e.g. Turing machines. Of these, the lambda calculus is perhaps the most elegant, 'stripped down', version, aligning neatly in a structural sense with our computational understanding of language.
+- Lambda calculus comes in two major flavors: (1) untyped lambda calculus, (2) typed lambda calculus.
+- The 'typedness' of lambda terms ensures their termination, and is also our best approximation of their 'logical/rational' nature, in the sense that a linguistic statement is rational exactly when it can be typed / assigned an understood (and true) logical form.
+- However, our understanding of these logical forms (a) is unsatisfactorily demarcated (in the strict sense that we have collected a small 'zoo' of trusted/recognized logical forms, but we don't understand why exactly *this* zoo, these logical forms, and no others); (b) suffers from logical paradox (in the sense that we have Gödel's incompleteness and related paradoxes; noteworthy is that by introducing typedness, we isolate these paradoxed in the newly constructed meta-realm, as opposed to the now 'typed' object-realm). Hence, we can see that 'recognized logical form calculus' is almost inherently always but an approximation of what can be called rationality.
+- Thus, to understand 'full' rationality, one must keep looking at untyped lambda calculus.
+- The untyped lambda calculus has the remarkable feature that the employed 'reduction strategy' determines whether a term computes to its normal (final) form (if it has one), or may possibly get stuck along the way: if the term has a normal form, then the 'outermost' reduction strategy gets it there, whereas other strategies may get stuck. If one understands a term 'having a normal form' as the term's 'rationality in some sense', then apparently the employed reduction strategy has a certain rational purport.
+- The ground for possible analogies is rich: computing to normal form as 'reaching conclusion', or possibly 'withstanding further ..dilemma..'; direction of conscious thought as 'choosing a reduction strategy' (either allowing one to get stuck, or reach conclusion).
+- It's even very obvious: if infinite computation amounts to Falsity and hence anything, then, whenever one is faced with a dilemma of reduction strategy, either allowing one to infinitely compute or reach a normal form, one is indeed faced with the 'simultaneous' reality of some conclusion A, and Falsity (i.e. not A), and hence, a paradox. In other words: paradoxed are caused by a dilemma of reduction strategy.
+- [I wonder whether Descartes' argument can be seen to encompass a certain form that either allows or disallows such strategy dilemma's..]

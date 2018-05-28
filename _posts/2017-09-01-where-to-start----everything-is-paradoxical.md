@@ -1,0 +1,16 @@
+---
+layout:    post
+title:    Where to start -- everything is paradoxical
+created:  Fri Sep 01 2017 13:47:15 GMT+0200 (CEST)
+modified: Wed Oct 11 2017 22:50:46 GMT+0200 (CEST)
+---
+
+I myself feel as if I, from my youth and through my father--who is a scientist--, have taken my ungraspable starting point to be that of truth. That is to say, truth was the concept which presented itself most clearly and .. to me, and which I subsequently took to be the main value for all my thoughts and investigations. Because of this, I became stuck in logical paradox quite early on, finding myself trapped in all kinds of situations such as choosing between two hypothetically mutually exclusive belief systems, or logical regressions, etc, etc. My point of departure, as well as inescapable conceptual framework, was truth, logic, skepticism, and hypotheticalization.
+
+The view that my "truth" is a value, of which there are many others, and from which one may, and people do, choose freely; is a view that indicates a different point of departure. It is one that scholars take, conventionally, and may in fact be the main distiguishing feature in fundamental belief systems between current scholars and current scientists.
+
+Of course, a simple way to put this is that these two take different axioms in a, for the remaining part, similar system of thought. And this is definitely instructive, but one must not overlook the fact that there is a key difference between an "axiom" -- which refers to the fact that one "chooses" it, as in a game, and most notably with a certain impartial stance -- and a "basic belief" or "value"; even if for nothing else than the paradoxical reason that the impartial stance applied when choosing an axiom rests on the basic belief that this is a justified method of operation, i.e. the basic belief is just an axiom, but the first is the actual thing, and the second is it's hypotheticalization (and in fact only in a very specific belief system, where logic (despite it's extremely specific and ununderstood character) is acknowledged to have it's particular fundamental or instructive value).
+
+The gap between what is actually the case, and our concept of it, will necessarily always remain, and remain quite large.
+
+For me at least, mathematics and the study of logic has provided conceptual tools to grasp this situation. For one, the "axiom" as a conceptualization of this point of departure. But also a characterization and realization of the paradoxes I felt as a child; and more importantly, a feeling for the circumstances under which these hold (these being: a certain character of discreteness and linearity, and a certain pervasive assymetry, through which complex structure arises, though always reducible to, or established by, the former). For me, the key philosophical insights often flow from the framework of complexity, (in)definability, etc. Establishing in this view is my contact and discussion with Wolfgang -- though I cannot at all claim to exactly understand his approach -- at the heart of which is, in my take of it, the idea that mathematical indefinability is related to the inescapability of value, e.g. love and truth (particularly the former relies on a recursion in human connection, by nature connected, yet divided, thus only through communication). ...

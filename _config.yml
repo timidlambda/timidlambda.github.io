@@ -1,0 +1,31 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Timid Lambda
+tagline:             Fighting paradoxes since 1992
+url:                 http://timidlambda.github.io
+paginate:            10
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Timid Lambda
+  email:             hello@timidlambda.nl
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/timidlambda/timidlambda.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
