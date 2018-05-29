@@ -1,0 +1,12 @@
+---
+layout: post
+title: Slecht persoon
+---
+
+Ik heb het nog nooit expliciet zo verwoord, maar eigenlijk voel ik de druk van mijzelf een slecht persoon vinden.
+
+De manier waarop ik her normaliter verwoord is dat ik, erg jaloers ben, niet tevreden, kwetsbaar, falend, heel verdrietig, apathisch, en niet van mezelf houd. Maar, ik ben dan wel ook apathisch over mijzelf niet te kunnen geven, dat ik niet kan doen wat juist is (al ben ik nog zo boos dat 'juist' zo'n farce is), niet kan liefhebben, etc. In weze, ben ik boos op mezelf, vind ik mezelf dan een slecht persoon.
+
+Blijkbaar liggen de twee dicht bij elkaar: jezelf een specht persoon vinden, en apathisch zijn, verdrietig en boos op de wereld.
+
+Als ik het zo verwoord, weet ik ook dat het waar is, want ik kan niet beargumenteren dat ik een goed persoon ben. Ik verpest Julia's leven met een asymmetrische relatie met weinig wederkerige liefde. Ik verpest mijn vriendschappelijke relaties met de mensen om me heen. Ik heb niet het geduld of de liefde om Tim te waarderen. Ik negeer de existentie van opa en oma. Ik spreek nooit af met Heleen en Elsie. Ik ben apathisch en heb geen ook voor anderen. Ik beoordeel anderen te snel, ben teleurgesteld in ze, veracht ze, weet niet wat ik in hun moet liefhebben, omdat ik niet weet hoe ik iets moet liefhebben, en kil ben, onverschillig sta, tegenover de wereld. Ik weet niet hoe ik plezier moet hebben aan de wereld. Ik heb geen interesse meer voor de wereld, ze verrast me niet meer. Ik heb de wereld gezien, en ze is vol absurditeit, slechtheid, en ik heb er geen zij meer in. De wereld, en het leven, heeft geen intrinsieke waarde, anders dan die met kracht wordt aangebracht door de energieke nieuweling, die links en rechts alles in puin laat. Ik ben en wil die nieuweling niet meer zijn, en voor zover ik die wel wil zijn louter om uit deze apatische toestand te komen, zie ik in hoe ik dan wel ook haar destructieve, immorele karakter zou moeten omarmen. Ik weet geen oplossing meer, anders dan ignorance. En tegelijkertijd voel ik me gevangen in de opstapeling van mijn gedachten, die ondanks deze deterministische ervaring toch vrij willekeurig lijken te zijn gewonnen in mijn persoonlijke geschiedenis. Ik voel me verpletterd door de eenzaamheid van mijn eigen gedachten. Wil ontsnappen, vrij zijn. Liefde is de intoxicatie met de gedachte open te staan voor andere gedachten dan je eigen. Ik wil verliefd zijn.

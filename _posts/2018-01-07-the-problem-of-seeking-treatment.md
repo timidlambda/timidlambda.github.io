@@ -1,0 +1,8 @@
+---
+layout: post
+title: The problem of seeking treatment
+---
+
+Toying with the term "anxiety" in my head, and the problem of relating my father's simple conclusion that I had a normal case of "faalangst" to my perceived problem that I have a larger case of general anxiety, as for example Agnes does; the possible term "social anxiety" struck and resonated with me. I Googled it, and sure enough, there were a great deal of hits on this. It's a recognised term all right. And then a further thing struck me: I have been taught, akin to the tendency of the natural sciences, to speak and believe only in known concepts. And this is a handicap: how else, can one tackle feelings that don't fit into one's known conceptual framework? In my case, it's a self reinforcing combination of problems. Now that I know, this knowledge that "social anxiety" is a recognised concept, allows me to imagine myself going to a psychologist, and not lose my self worth in the process.
+
+More philosophically speaking, it ties into my notion if complexity and the nature of expression. Creativity, or expressing something truly new, is hard in exactly this way. But "nature", in at least Adorno's / Lukács' conception, limits this possibility, holds it down. Yet I don't want to resign to a dichotomy/aporia, and take it to be a paradox. And I see at least a few ways in which other's have identified this problem, and tried to resolve it. First, there is Hobbes' conception of freedom as being our ability to follow our natural tendencies without being obstructed, and this ability being a result of our having adapted our creativity to understand, and abide by, natural law. ...
